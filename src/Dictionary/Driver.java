@@ -5,17 +5,7 @@ import java.util.Scanner;
 
 public class Driver {
     public static void main(String[] args) {
-        /*
-        1 View all dictionary
-        2 Search for word
-        3 Search for words beginning with
-        4 Add word
-        5 Remove word
-        6 Edit word definition
 
-        ~Upload dictionary contents~
-        ~Save dictionary to file~
-         */
         // creating the dictionary
         Dictionary dictionary = new Dictionary();
 
